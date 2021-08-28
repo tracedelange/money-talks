@@ -1,0 +1,12 @@
+#Twitter scraper ignores
+/twitter-scraper/__pycache__
+/twitter-scraper/env
+/twitter-scraper/raw_tweets
+/twitter-scraper/config.py
+/twitter-scraper/dev.ipynb
+/twitter-scraper/test_list.csv
+
+
+.vscode
+
+
