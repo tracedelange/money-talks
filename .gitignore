@@ -9,6 +9,7 @@
 
 .vscode
 
+
 # Ignore bundler config.
 /sinatra-api/.bundle
 
