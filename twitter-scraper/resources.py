@@ -39,14 +39,53 @@ def get_mentions(df):
 def upsert_database(master_dic, cur):
     for symbol in master_dic.keys():
 
-        cur.execute(sql.SQL("CREATE TABLE IF NOT EXISTS {} (date date PRIMARY KEY, mentions integer, users integer, outreach_est integer );").format(sql.Identifier(symbol[1:])))
+        ##Execute a query to determine if symbol exists in tickers table:
+        cur.execute(sql.SQL('SELECT EXISTS(SELECT 1 FROM tickers WHERE ticker_name=%s) AS "exists";'), (symbol[1:],))
+        res = cur.fetchall()[0][0]
+
+        if res == False:
+            print('ticker does not exist in table')
+            #ticker does not exist in table, add it
+            cur.execute(sql.SQL('INSERT INTO tickers(ticker_name) VALUES (%s) ;'), (symbol[1:],))
+
+        cur.execute(sql.SQL('SELECT ticker_id FROM tickers WHERE ticker_name = %s'), (symbol[1:],))
+        ticker_id = cur.fetchall()[0][0]
+
 
         for date in master_dic[symbol].keys():
+        #now we need to do a insert on conflict update I think
+        #Maybe not.
+        #determine if there exists an entry in date_mentions where DATE = date AND Ticker ID = TICKER ID
+        #if true, update entry
+        #if false, create entry.
+            # print('\n')
+            # print('Date :' + str(date))
+            # print('Ticker ID :' + str(ticker_id))
+            # print('mentions :' + str(master_dic[symbol][date][0]))
+            # print('users :' + 'Not sure about this one')
+            # print('outreach_est :' + str(master_dic[symbol][date][1]))
 
-            cur.execute(
-            sql.SQL("INSERT INTO {symbol} (date, mentions, users, outreach_est) VALUES (%s, %s, %s, %s) ON CONFLICT (DATE) DO UPDATE SET mentions = ({symbol}.mentions + %s), users = ({symbol}.users + 1), outreach_est = ({symbol}.outreach_est + %s) WHERE ({symbol}.DATE) = %s ").format(symbol=sql.Identifier(symbol[1:])), #SQL
-            (date, master_dic[symbol][date][0], 1, master_dic[symbol][date][1], master_dic[symbol][date][0], master_dic[symbol][date][1], date) #Values passed in
-            )
+            ##Execute a query to determine if symbol exists in tickers table:
+            cur.execute(sql.SQL('SELECT EXISTS(SELECT 1 FROM date_mentions WHERE ticker_id=%s AND date=%s) AS "exists";'), (ticker_id,date,))
+            res = cur.fetchall()[0][0]
+
+            if res == False:
+                cur.execute(
+                sql.SQL("INSERT INTO date_mentions (date, ticker_id, mentions, users, estimated_outreach) VALUES (%s, %s, %s, %s, %s)"), #SQL
+                (date, ticker_id, master_dic[symbol][date][0], 1, (master_dic[symbol][date][1])) #Values passed in
+                )
+            else:
+                cur.execute(
+                sql.SQL("""
+                UPDATE date_mentions
+                SET
+                mentions = mentions + %s,
+                users = users + 1,
+                estimated_outreach = estimated_outreach + %s
+                WHERE date = %s AND ticker_id = %s
+                """), #SQL
+                (master_dic[symbol][date][0], master_dic[symbol][date][1], date, ticker_id) #Values passed in
+                )
 
     return
 

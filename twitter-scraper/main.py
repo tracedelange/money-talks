@@ -158,6 +158,8 @@ conn = psycopg2.connect(
 conn.autocommit = True
 cur = conn.cursor()
 
+file_count = 0
+total_files = len(os.listdir(directory))
 for filename in os.listdir(directory):
     f = os.path.join(directory, filename)
     # if os.path.isfile(filename):
@@ -175,8 +177,15 @@ for filename in os.listdir(directory):
     dic = gen_master_dic(df)
 
     print('\n')
-    print(user_id)
-    print(user_follower_count)
+    print("User ID: " + str(user_id))
+    print("User Follower Count: " + str(user_follower_count))
+    print("Users processed: " + str(file_count))
+
+    p = int(round(((file_count / total_files) * 100), 0))
+    loading_string = '/' + ('X' * (file_count)) + ('-' * (100 - file_count)) + '/'
+    print(loading_string)
+
+
     for key in dic.keys():
         for dateKey in dic[key].keys():
             # print(dateKey)
@@ -222,7 +231,7 @@ Total number of mentions collected: %s
 """ % (start_time, end_time, process_timespan, stats['users_checked'], stats['total_collected'])
 
 
-#Send out message to email address with the stats of the last run:
+# Send out message to email address with the stats of the last run:
 email_report.email_report(report_body, 'tracedelange@me.com', "Scrape Update")
 
 
