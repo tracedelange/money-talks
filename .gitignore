@@ -1,0 +1,7 @@
+.vscode
+/env
+/raw_tweets
+/__pycache__
+config.py
+dev.ipynb
+*.csv
