@@ -57,6 +57,7 @@ def contains_ticker(text): ##good candidate to be moved to resources and importe
 stats['users_checked'] = len(df)
 #total number of tweets scraped over each user
 stats['total_collected'] = 0
+stats['user_count'] = 0
 
 for index, row in df.iterrows():
     # print(type(row['date_last_read']))
@@ -139,6 +140,12 @@ for index, row in df.iterrows():
     # print('\n')
     print('...done')
     df.to_csv('test_list.csv', sep=',', encoding='utf-8', index=False)
+    
+    stats['user_count'] += 1
+    
+    p = int(round(((stats['user_count'] / len(df)) * 100), 0))
+    loading_string = '/' + ('X' * (p)) + ('-' * (100 - p)) + '/'
+    print(loading_string)
 
 
 # print("Oldest: "  + str(oldest))
@@ -182,7 +189,7 @@ for filename in os.listdir(directory):
     print("Users processed: " + str(file_count))
 
     p = int(round(((file_count / total_files) * 100), 0))
-    loading_string = '/' + ('X' * (file_count)) + ('-' * (100 - file_count)) + '/'
+    loading_string = '/' + ('X' * (p)) + ('-' * (100 - p)) + '/'
     print(loading_string)
 
 
@@ -200,8 +207,10 @@ for filename in os.listdir(directory):
     #     print(entry)
 
     # print(dic)
-
+	
     upsert_database(dic, cur)
+    file_count += 1
+
 
 
 # close out connections to the db

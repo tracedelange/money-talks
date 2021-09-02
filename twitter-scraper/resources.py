@@ -44,7 +44,7 @@ def upsert_database(master_dic, cur):
         res = cur.fetchall()[0][0]
 
         if res == False:
-            print('ticker does not exist in table')
+            #print('ticker does not exist in table')
             #ticker does not exist in table, add it
             cur.execute(sql.SQL('INSERT INTO tickers(ticker_name) VALUES (%s) ;'), (symbol[1:],))
 
