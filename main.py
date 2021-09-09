@@ -243,6 +243,6 @@ Total number of mentions collected: %s
 
 
 # Send out message to email address with the stats of the last run:
-email_report.email_report(report_body, 'tracedelange@me.com', "Scrape Update")
+email_report.email_report(report_body, 'tracedelange@me.com', "Scrape Update " + str(today))
 
 
