@@ -14,7 +14,7 @@ import email_report
 from config import twitter_config
 
 
-process_start = process_time()
+process_start = datetime.now()
 start_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 today = date.today().isoformat()
@@ -219,7 +219,7 @@ for filename in os.listdir(directory):
 cur.close()
 conn.close()
 
-process_end = process_time()
+process_end = datetime.now()
 end_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
 process_timespan = process_end - process_start
@@ -239,7 +239,7 @@ Number of users scanned: %s
 Total number of mentions collected: %s
 
 
-""" % (start_time, end_time, process_timespan, stats['users_checked'], stats['total_collected'])
+""" % (start_time, end_time, (process_timespan.total_seconds)/60, stats['users_checked'], stats['total_collected'])
 
 
 # Send out message to email address with the stats of the last run:
