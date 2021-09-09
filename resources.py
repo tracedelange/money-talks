@@ -38,7 +38,12 @@ def get_mentions(df):
 #With the master dictionary in place and a connection to DB established, this function will handle the upsertion of master_dic to db
 def upsert_database(master_dic, cur):
     for symbol in master_dic.keys():
-
+        
+        if len(symbol) > 15:
+            continue
+        
+        
+        
         ##Execute a query to determine if symbol exists in tickers table:
         cur.execute(sql.SQL('SELECT EXISTS(SELECT 1 FROM tickers WHERE ticker_name=%s) AS "exists";'), (symbol[1:],))
         res = cur.fetchall()[0][0]

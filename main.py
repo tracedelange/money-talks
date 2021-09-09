@@ -173,6 +173,8 @@ for filename in os.listdir(directory):
     df = get_df(f)
 
     if len(df) == 0: #if the dataframe is empty, skip the iteration
+        print("No tweets for user, moving to next... \n")
+        file_count += 1
         continue
 
     
