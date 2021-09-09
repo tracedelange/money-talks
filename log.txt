@@ -1,0 +1,302 @@
+Email sent!
+Imports successful
+Twitter authentication successful 
+
+Reading in user IDs...
+Users_ids obtained
+Downloading user 2205812431 tweets
+84 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/----------------------------------------------------------------------------------------------------/
+Downloading user 1120522663414456320 tweets
+998 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/----------------------------------------------------------------------------------------------------/
+Downloading user 90752439 tweets
+1320 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/X---------------------------------------------------------------------------------------------------/
+Downloading user 1243184378219573249 tweets
+480 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/X---------------------------------------------------------------------------------------------------/
+Downloading user 1260552306782810112 tweets
+1749 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/X---------------------------------------------------------------------------------------------------/
+Downloading user 1360396375503085568 tweets
+1290 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/X---------------------------------------------------------------------------------------------------/
+Downloading user 1250910531956944901 tweets
+87 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/X---------------------------------------------------------------------------------------------------/
+Downloading user 1581832626 tweets
+323 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/X---------------------------------------------------------------------------------------------------/
+Downloading user 928254089829416961 tweets
+848 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 714652313546203138 tweets
+872 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 1334660092994723840 tweets
+806 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 83150642 tweets
+1819 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 22453225 tweets
+336 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 1359274864452976651 tweets
+400 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXX-------------------------------------------------------------------------------------------------/
+Downloading user 21764428 tweets
+1333 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXX-------------------------------------------------------------------------------------------------/
+Downloading user 1344073018797129728 tweets
+872 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXX-------------------------------------------------------------------------------------------------/
+Downloading user 1359164500918882307 tweets
+619 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXX-------------------------------------------------------------------------------------------------/
+Downloading user 1123311962924945408 tweets
+24 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXX-------------------------------------------------------------------------------------------------/
+Downloading user 756119882861862912 tweets
+314 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXX------------------------------------------------------------------------------------------------/
+Downloading user 1317522853990965256 tweets
+156 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXX------------------------------------------------------------------------------------------------/
+Downloading user 707591056599228417 tweets
+1216 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXX------------------------------------------------------------------------------------------------/
+Downloading user 888225282334871553 tweets
+308 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXX------------------------------------------------------------------------------------------------/
+Downloading user 1265655689935896577 tweets
+1963 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXX------------------------------------------------------------------------------------------------/
+Downloading user 89517375 tweets
+1748 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXX------------------------------------------------------------------------------------------------/
+Downloading user 1242215138402480130 tweets
+228 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXX-----------------------------------------------------------------------------------------------/
+Downloading user 373620043 tweets
+103 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXX-----------------------------------------------------------------------------------------------/
+Downloading user 946470689367842816 tweets
+189 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXX-----------------------------------------------------------------------------------------------/
+Downloading user 1047325862675324928 tweets
+2117 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXX-----------------------------------------------------------------------------------------------/
+Downloading user 1269718124045221891 tweets
+675 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXX-----------------------------------------------------------------------------------------------/
+Downloading user 1367953835969245185 tweets
+100 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 1349687526735409156 tweets
+949 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 1282418324228337665 tweets
+30 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 1111006576461017089 tweets
+592 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 2342334844 tweets
+1076 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 1280125268007493632 tweets
+1161 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 4312114277 tweets
+3246 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 52166809 tweets
+1122 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 1327660593684340744 tweets
+169 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 815485842382733312 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 1884013189 tweets
+2266 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 1142472254514589696 tweets
+81 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 1306295941759217666 tweets
+31 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 1266076107306151936 tweets
+615 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 24070568 tweets
+85 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 1294423302744813568 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 1241493087588941825 tweets
+964 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 1291412594939625479 tweets
+164 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 112872946 tweets
+2777 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 34582316 tweets
+2733 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 1154074304348246016 tweets
+1324 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 104695654 tweets
+1145 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 1235654964720041990 tweets
+724 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXX------------------------------------------------------------------------------------------/
+Downloading user 1262614671397445633 tweets
+992 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXX------------------------------------------------------------------------------------------/
+Downloading user 892072054148796416 tweets
+826 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXX------------------------------------------------------------------------------------------/
+Downloading user 271045715 tweets
+1308 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXX------------------------------------------------------------------------------------------/
+Downloading user 943883051989221376 tweets
+1025 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXX------------------------------------------------------------------------------------------/
+Downloading user 3038254299 tweets
+1050 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+Downloading user 3229256723 tweets
+1019 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+Downloading user 1256179655767400448 tweets
+495 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+Downloading user 1118235493030866944 tweets

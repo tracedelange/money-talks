@@ -1,3 +1,5 @@
+#!/usr/bin/env/python3.7
+
 from typing import Dict
 import tweepy
 import pandas as pd
@@ -12,6 +14,18 @@ import config
 import psycopg2
 import email_report
 from config import twitter_config
+
+
+
+#set the working directory to the current directory in case this is being called from outside the directory, like from a cronjob
+
+
+
+script_dir = os.path.dirname(os.path.realpath("/home/pi/Code/money-talks/twitter-scraper/main.py"))
+os.chdir(script_dir)
+
+
+email_report.email_report('Main.py Activated via cron', 'tracedelange@me.com', "test")
 
 
 process_start = datetime.now()
@@ -36,7 +50,10 @@ print('Twitter authentication successful \n')
 
 print('Reading in user IDs...')
 
-csv_file = 'test_list.csv'
+#/home/pi/Code/money-talks/twitter-scraper/user_id_list.csv
+
+
+csv_file = '/home/pi/Code/money-talks/twitter-scraper/user_id_list.csv'
 
 df = pd.read_csv(csv_file)
 df.columns = ['user_id', 'follower_count', 'date_last_read']
