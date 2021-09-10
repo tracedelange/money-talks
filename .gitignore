@@ -18,18 +18,3 @@ test_list.csv
 .vscode
 
 
-# Ignore bundler config.
-/sinatra-api/.bundle
-
-# Ignore the default SQLite database.
-/sinatra-api/db/*.sqlite3
-/sinatra-api/db/*.sqlite3-*
-
-# Byebug
-/sinatra-api/.byebug_history
-
-# Canvas-specific .results.json
-/sinatra-api/.results.json
-/sinatra-api/config
-/sinatra-api/db
-

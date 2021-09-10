@@ -156,7 +156,7 @@ for index, row in df.iterrows():
 
     # print('\n')
     print('...done')
-    df.to_csv('test_list.csv', sep=',', encoding='utf-8', index=False)
+    df.to_csv('user_id_list.csv', sep=',', encoding='utf-8', index=False)
     
     stats['user_count'] += 1
     
