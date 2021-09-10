@@ -13,7 +13,7 @@ raw_tweets
 config.py
 dev.ipynb
 test_list.csv
-user_id_list.csv
+#user_id_list.csv
 
 .vscode
 
