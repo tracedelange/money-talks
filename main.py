@@ -25,9 +25,6 @@ script_dir = os.path.dirname(os.path.realpath("/home/pi/Code/money-talks/twitter
 os.chdir(script_dir)
 
 
-email_report.email_report('Main.py Activated via cron', 'tracedelange@me.com', "test")
-
-
 process_start = datetime.now()
 start_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
@@ -86,9 +83,9 @@ for index, row in df.iterrows():
         #not an int, date obj, default to something
         since = 1
     #     
-    print('Downloading user ' + str(row['user_id']) + ' tweets')
+    print('Downloading user ' + str(int(row['user_id'])) + ' tweets')
 #     #Generate and save a list of user tweets as a csv in the raw_tweets dir
-    target_user_id = row['user_id']
+    target_user_id = int(row['user_id'])
 
 #     # initialize a list to hold all the tweepy Tweets
     alltweets = []
