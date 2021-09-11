@@ -5,298 +5,4253 @@ Twitter authentication successful
 Reading in user IDs...
 Users_ids obtained
 Downloading user 2205812431 tweets
-84 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /----------------------------------------------------------------------------------------------------/
 Downloading user 1120522663414456320 tweets
-998 Tweets saved...
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 90752439 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /----------------------------------------------------------------------------------------------------/
-Downloading user 90752439 tweets
-1320 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/X---------------------------------------------------------------------------------------------------/
-Downloading user 1243184378219573249 tweets
-480 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/X---------------------------------------------------------------------------------------------------/
+Downloading user 1243184378219573248 tweets
+Skipping protected user... OR no new tweets to collect...
 Downloading user 1260552306782810112 tweets
-1749 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /X---------------------------------------------------------------------------------------------------/
 Downloading user 1360396375503085568 tweets
-1290 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /X---------------------------------------------------------------------------------------------------/
-Downloading user 1250910531956944901 tweets
-87 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/X---------------------------------------------------------------------------------------------------/
+Downloading user 1250910531956944896 tweets
+Skipping protected user... OR no new tweets to collect...
 Downloading user 1581832626 tweets
-323 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /X---------------------------------------------------------------------------------------------------/
-Downloading user 928254089829416961 tweets
-848 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XX--------------------------------------------------------------------------------------------------/
-Downloading user 714652313546203138 tweets
-872 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XX--------------------------------------------------------------------------------------------------/
+Downloading user 928254089829416960 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 714652313546203136 tweets
+Skipping protected user... OR no new tweets to collect...
 Downloading user 1334660092994723840 tweets
-806 Tweets saved...
+0 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XX--------------------------------------------------------------------------------------------------/
+/X---------------------------------------------------------------------------------------------------/
 Downloading user 83150642 tweets
-1819 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XX--------------------------------------------------------------------------------------------------/
+/X---------------------------------------------------------------------------------------------------/
 Downloading user 22453225 tweets
-336 Tweets saved...
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/X---------------------------------------------------------------------------------------------------/
+Downloading user 1359274864452976640 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 21764428 tweets
+2 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XX--------------------------------------------------------------------------------------------------/
-Downloading user 1359274864452976651 tweets
-400 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXX-------------------------------------------------------------------------------------------------/
-Downloading user 21764428 tweets
-1333 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXX-------------------------------------------------------------------------------------------------/
 Downloading user 1344073018797129728 tweets
-872 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXX-------------------------------------------------------------------------------------------------/
-Downloading user 1359164500918882307 tweets
-619 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXX-------------------------------------------------------------------------------------------------/
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 1359164500918882304 tweets
+Skipping protected user... OR no new tweets to collect...
 Downloading user 1123311962924945408 tweets
-24 Tweets saved...
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 756119882861862912 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 1317522853990965248 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 707591056599228416 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 888225282334871552 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1265655689935896576 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 89517375 tweets
+6 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XX--------------------------------------------------------------------------------------------------/
+Downloading user 1242215138402480128 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 373620043 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXX-------------------------------------------------------------------------------------------------/
-Downloading user 756119882861862912 tweets
-314 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXX------------------------------------------------------------------------------------------------/
-Downloading user 1317522853990965256 tweets
-156 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXX------------------------------------------------------------------------------------------------/
-Downloading user 707591056599228417 tweets
-1216 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXX------------------------------------------------------------------------------------------------/
-Downloading user 888225282334871553 tweets
-308 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXX------------------------------------------------------------------------------------------------/
-Downloading user 1265655689935896577 tweets
-1963 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXX------------------------------------------------------------------------------------------------/
-Downloading user 89517375 tweets
-1748 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXX------------------------------------------------------------------------------------------------/
-Downloading user 1242215138402480130 tweets
-228 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXX-----------------------------------------------------------------------------------------------/
-Downloading user 373620043 tweets
-103 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXX-----------------------------------------------------------------------------------------------/
 Downloading user 946470689367842816 tweets
-189 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXX-----------------------------------------------------------------------------------------------/
+/XXX-------------------------------------------------------------------------------------------------/
 Downloading user 1047325862675324928 tweets
-2117 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXX-----------------------------------------------------------------------------------------------/
-Downloading user 1269718124045221891 tweets
-675 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXX-----------------------------------------------------------------------------------------------/
-Downloading user 1367953835969245185 tweets
-100 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXXX----------------------------------------------------------------------------------------------/
-Downloading user 1349687526735409156 tweets
-949 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXXX----------------------------------------------------------------------------------------------/
-Downloading user 1282418324228337665 tweets
-30 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXXX----------------------------------------------------------------------------------------------/
-Downloading user 1111006576461017089 tweets
-592 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXXX----------------------------------------------------------------------------------------------/
+/XXX-------------------------------------------------------------------------------------------------/
+Downloading user 1269718124045221888 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1367953835969245184 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1349687526735409152 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1282418324228337664 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1111006576461017088 tweets
+Skipping protected user... OR no new tweets to collect...
 Downloading user 2342334844 tweets
-1076 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXX----------------------------------------------------------------------------------------------/
+/XXX-------------------------------------------------------------------------------------------------/
 Downloading user 1280125268007493632 tweets
-1161 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXX----------------------------------------------------------------------------------------------/
+/XXX-------------------------------------------------------------------------------------------------/
 Downloading user 4312114277 tweets
-3246 Tweets saved...
+16 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXX---------------------------------------------------------------------------------------------/
+/XXXX------------------------------------------------------------------------------------------------/
 Downloading user 52166809 tweets
-1122 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXX---------------------------------------------------------------------------------------------/
-Downloading user 1327660593684340744 tweets
-169 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXXXX---------------------------------------------------------------------------------------------/
+/XXXX------------------------------------------------------------------------------------------------/
+Downloading user 1327660593684340736 tweets
+Skipping protected user... OR no new tweets to collect...
 Downloading user 815485842382733312 tweets
 0 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXX---------------------------------------------------------------------------------------------/
+/XXXX------------------------------------------------------------------------------------------------/
 Downloading user 1884013189 tweets
-2266 Tweets saved...
+0 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXX---------------------------------------------------------------------------------------------/
+/XXXX------------------------------------------------------------------------------------------------/
 Downloading user 1142472254514589696 tweets
-81 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXXX--------------------------------------------------------------------------------------------/
-Downloading user 1306295941759217666 tweets
-31 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXXXXX--------------------------------------------------------------------------------------------/
+/XXXX------------------------------------------------------------------------------------------------/
+Downloading user 1306295941759217664 tweets
+Skipping protected user... OR no new tweets to collect...
 Downloading user 1266076107306151936 tweets
-615 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXXX--------------------------------------------------------------------------------------------/
+/XXXX------------------------------------------------------------------------------------------------/
 Downloading user 24070568 tweets
-85 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXXX--------------------------------------------------------------------------------------------/
+/XXXXX-----------------------------------------------------------------------------------------------/
 Downloading user 1294423302744813568 tweets
 0 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXXX--------------------------------------------------------------------------------------------/
-Downloading user 1241493087588941825 tweets
-964 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXXXXX--------------------------------------------------------------------------------------------/
-Downloading user 1291412594939625479 tweets
-164 Tweets saved...
-Tweets saved to /raw_tweets
-...done
-/XXXXXXXXX-------------------------------------------------------------------------------------------/
+/XXXXX-----------------------------------------------------------------------------------------------/
+Downloading user 1241493087588941824 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1291412594939625472 tweets
+Skipping protected user... OR no new tweets to collect...
 Downloading user 112872946 tweets
-2777 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXXXX-------------------------------------------------------------------------------------------/
+/XXXXX-----------------------------------------------------------------------------------------------/
 Downloading user 34582316 tweets
-2733 Tweets saved...
+2 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXXXX-------------------------------------------------------------------------------------------/
+/XXXXX-----------------------------------------------------------------------------------------------/
 Downloading user 1154074304348246016 tweets
-1324 Tweets saved...
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
-/XXXXXXXXX-------------------------------------------------------------------------------------------/
+/XXXXX-----------------------------------------------------------------------------------------------/
 Downloading user 104695654 tweets
-1145 Tweets saved...
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 1235654964720041984 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1262614671397445632 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 892072054148796416 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 271045715 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 943883051989221376 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 3038254299 tweets
+2 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 3229256723 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXX----------------------------------------------------------------------------------------------/
+Downloading user 1256179655767400448 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 1118235493030866944 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 1277564927562170368 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 1157733371449171968 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 1242932824467963904 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 189788477 tweets
+6 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXX---------------------------------------------------------------------------------------------/
+Downloading user 1014711084836642816 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1234721726593765376 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 718886809816735744 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 565969885 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 23059499 tweets
+3 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 831723043 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 81157050 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 138404716 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 602193458 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+Downloading user 971162498102710272 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 197478610 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1259555533952032768 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXX-------------------------------------------------------------------------------------------/
-Downloading user 1235654964720041990 tweets
-724 Tweets saved...
+Downloading user 1113201035173036032 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 866280102459564032 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 2976727463 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 26504905 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+Downloading user 11247222 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXXX------------------------------------------------------------------------------------------/
-Downloading user 1262614671397445633 tweets
-992 Tweets saved...
+Downloading user 97561587 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXXX------------------------------------------------------------------------------------------/
-Downloading user 892072054148796416 tweets
-826 Tweets saved...
+Downloading user 40300931 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXXX------------------------------------------------------------------------------------------/
-Downloading user 271045715 tweets
-1308 Tweets saved...
+Downloading user 2897386131 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 758386485846544384 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXXX------------------------------------------------------------------------------------------/
-Downloading user 943883051989221376 tweets
-1025 Tweets saved...
+Downloading user 1153696034654248960 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2222635612 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXXX------------------------------------------------------------------------------------------/
-Downloading user 3038254299 tweets
-1050 Tweets saved...
+Downloading user 253617897 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXXXX-----------------------------------------------------------------------------------------/
-Downloading user 3229256723 tweets
-1019 Tweets saved...
+Downloading user 2228460174 tweets
+1 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXXXX-----------------------------------------------------------------------------------------/
-Downloading user 1256179655767400448 tweets
-495 Tweets saved...
+Downloading user 4224604276 tweets
+2 Tweets saved...
 Tweets saved to /raw_tweets
 ...done
 /XXXXXXXXXXX-----------------------------------------------------------------------------------------/
-Downloading user 1118235493030866944 tweets
+Downloading user 2264053464 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+Downloading user 916787510822436864 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+Downloading user 949496605576716288 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+Downloading user 971414806933770240 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 125686737 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXX----------------------------------------------------------------------------------------/
+Downloading user 41458395 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 20800915 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2911130432 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXX----------------------------------------------------------------------------------------/
+Downloading user 1164114986186227712 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXX----------------------------------------------------------------------------------------/
+Downloading user 957781891788296192 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXX----------------------------------------------------------------------------------------/
+Downloading user 1154199013173936128 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 761370249329377280 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 942774951672729600 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXX----------------------------------------------------------------------------------------/
+Downloading user 14886375 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+Downloading user 1599911502 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+Downloading user 1128728860848152576 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 958760331802705920 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+Downloading user 43775786 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+Downloading user 818958375216152576 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+Downloading user 1661029645 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+Downloading user 2486504240 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXX--------------------------------------------------------------------------------------/
+Downloading user 55561590 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 855295030369542144 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXX--------------------------------------------------------------------------------------/
+Downloading user 958087450274000896 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXX--------------------------------------------------------------------------------------/
+Downloading user 203652149 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXX--------------------------------------------------------------------------------------/
+Downloading user 389474167 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXX--------------------------------------------------------------------------------------/
+Downloading user 811622157516029952 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1178820912751267840 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+Downloading user 876471020420448256 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1159930177696219136 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+Downloading user 916131323395395584 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 985912937696014336 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2541246373 tweets
+2 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+Downloading user 1335636217027694592 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1319540410616864768 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1281254559755747328 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+Downloading user 102527566 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+Downloading user 1289823541098143744 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+Downloading user 1240876822981685248 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1313686024741158912 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+Downloading user 1348662936865288192 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+Downloading user 2290432441 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+Downloading user 1240592960795938816 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+Downloading user 1134049078424162304 tweets
+38 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+Downloading user 1073430565020450816 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1180701690 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------------/
+Downloading user 1283972486883876864 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------------/
+Downloading user 570754937 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------------/
+Downloading user 872519322077470720 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1435811695 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------------/
+Downloading user 23491081 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------------/
+Downloading user 44622184 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+Downloading user 1311093242 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+Downloading user 71453756 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+Downloading user 57680359 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+Downloading user 74489330 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+Downloading user 7823142 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+Downloading user 1060938846102122496 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+Downloading user 40938160 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+Downloading user 1069371457531047936 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1018324467758465024 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+Downloading user 1216173472310878208 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+Downloading user 3308210484 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+Downloading user 14051297 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+Downloading user 15130891 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+Downloading user 2459969490 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 712645338 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+Downloading user 1070540999523471360 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 936088906000412672 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+Downloading user 2578293891 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1545610710 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+Downloading user 1332024445414887424 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 876388932 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 188369814 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+Downloading user 1258611936511614976 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 876045524939485184 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+Downloading user 69803348 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+Downloading user 208576658 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+Downloading user 1272990687743676416 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1059494816554381312 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 787439438964068352 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+Downloading user 54248795 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+Downloading user 2776090481 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------------/
+Downloading user 1016148108319887360 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------------/
+Downloading user 18557769 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------------/
+Downloading user 1245111122186960896 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1136045357434056704 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 1262545505772584960 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1127579331172216832 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------------/
+Downloading user 858063372583088128 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------------/
+Downloading user 1281308991759532032 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 996594106875949056 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+Downloading user 4627333400 tweets
+2 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+Downloading user 939572568457170944 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+Downloading user 1104876591774134272 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+Downloading user 2719861582 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+Downloading user 706723368939065344 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+Downloading user 448894687 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------/
+Downloading user 170562844 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------/
+Downloading user 1263205698 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------/
+Downloading user 983655260 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 3410575617 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------/
+Downloading user 2806294664 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------/
+Downloading user 993886827353427968 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 849754941807890432 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+Downloading user 31546412 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+Downloading user 770583695652560896 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+Downloading user 1170831448082984960 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+Downloading user 1263131199238627328 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+Downloading user 275288972 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+Downloading user 1098680691720515584 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1289274229523910656 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1234705779237801984 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 136136326 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+Downloading user 1260401180171067392 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+Downloading user 1271899909675859968 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+Downloading user 1271593087802896384 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+Downloading user 1260009279563554816 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1028704054317408256 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1580637560 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+Downloading user 1168301130939621376 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1338306457511600128 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1352342677661118464 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1244302910990594048 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1341959232405565440 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1371616021430296576 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+Downloading user 817007725666242560 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 926795242384297984 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1244192860674625536 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+Downloading user 1359180271262855168 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+Downloading user 943641207707701248 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+Downloading user 1193455044 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+Downloading user 44366481 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+Downloading user 1191169855044694016 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------/
+Downloading user 1357096519388852224 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 932630991298007040 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 14983508 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------/
+Downloading user 1284705705778393088 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1295125041001172992 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------/
+Downloading user 1036300380458631168 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1280269921574948864 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1288489488889643008 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 704770086075277312 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------/
+Downloading user 1283645233427673088 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1276308642883604480 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1293770572938313728 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1695293845 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------/
+Downloading user 1022155248197140480 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1272539357153501184 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 47247213 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------/
+Downloading user 1103414363212398592 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1259338304706809856 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------/
+Downloading user 1242659529508171776 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 954321334217056256 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------/
+Downloading user 2756017625 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------/
+Downloading user 1265723184202031104 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 274233761 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------/
+Downloading user 2470475939 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+Downloading user 1279388084459757568 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 716299633786421248 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+Downloading user 1257075990200758272 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 166597717 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+Downloading user 943104944504233984 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+Downloading user 1026881203893415936 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+Downloading user 72636770 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+Downloading user 1038525770421993472 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 99737856 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------/
+Downloading user 820443157938786304 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 237591901 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------/
+Downloading user 3441912856 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------/
+Downloading user 966139276235825152 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------/
+Downloading user 1111718590036828160 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1062074042969137152 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------/
+Downloading user 147902687 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+Downloading user 573095099 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+Downloading user 3398295268 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+Downloading user 3124099835 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+Downloading user 787881708364398592 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+Downloading user 732206149567692800 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+Downloading user 3837862277 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------/
+Downloading user 458989076 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------/
+Downloading user 586734515 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------/
+Downloading user 950942636818432000 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 726577227446497280 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 864584576 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------/
+Downloading user 448077183 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------/
+Downloading user 814193140840222720 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------/
+Downloading user 37040959 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------/
+Downloading user 19717430 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------/
+Downloading user 498166332 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 3432211203 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------/
+Downloading user 43475268 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------/
+Downloading user 875407999141007360 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+Downloading user 51912109 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+Downloading user 2334614718 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+Downloading user 1074332839179563008 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+Downloading user 62871181 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+Downloading user 259471396 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+Downloading user 1041050238 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+Downloading user 20382026 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+Downloading user 56121651 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+Downloading user 66746952 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+Downloading user 632341632 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+Downloading user 40099128 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+Downloading user 229966745 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+Downloading user 2927960383 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+Downloading user 777500854970494976 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 972420430542835712 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+Downloading user 121158213 tweets
+7 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+Downloading user 712857134086680576 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 808434164701818880 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2186813068 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+Downloading user 1394399438 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+Downloading user 1180119209642254336 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 17984662 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+Downloading user 400251392 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+Downloading user 767561346275799040 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1088823659492491264 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 132703700 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+Downloading user 20449296 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+Downloading user 297848618 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+Downloading user 1122860091957555200 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+Downloading user 4857170249 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+Downloading user 979704805051588608 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+Downloading user 1084023380548956160 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 968852728314257408 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+Downloading user 4706746513 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+Downloading user 887748030304329728 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+Downloading user 16726035 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+Downloading user 58613100 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+Downloading user 2520719083 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+Downloading user 1087680216204566528 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+Downloading user 657863 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+Downloading user 1105203293872103424 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 18855108 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+Downloading user 1000886101 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+Downloading user 90502419 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+Downloading user 61875147 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+Downloading user 219370252 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+Downloading user 27771267 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+Downloading user 1014650666 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+Downloading user 16851206 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+Downloading user 1363876221881372672 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1297721937783816192 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+Downloading user 1285687572090454016 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+Downloading user 902269398 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+Downloading user 2392168422 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+Downloading user 11382502 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+Downloading user 1060556706751672320 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1672810880 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+Downloading user 2941122879 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 1025004192413483008 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 953725552040427520 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+Downloading user 1263552816452427776 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1296928720649887744 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+Downloading user 1579030928 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+Downloading user 1270094009017356288 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+Downloading user 3311123341 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+Downloading user 978735902859112448 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+Downloading user 255996385 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+Downloading user 2187819369 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------/
+Downloading user 606228188 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------/
+Downloading user 331874505 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------/
+Downloading user 527018393 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------/
+Downloading user 2964287876 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 1224183831231524864 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------/
+Downloading user 1275570220002947072 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1288630630515789824 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 3054054090 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------/
+Downloading user 1271556332332691456 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1243273376023621632 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2919908100 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------/
+Downloading user 1350972734256394240 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1333871346653270016 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 129779889 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 1318997279328460800 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1308365397016694784 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1270563463140651008 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1345184455183503360 tweets
+2 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------/
+Downloading user 596509048 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------/
+Downloading user 1335132190468952064 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------/
+Downloading user 339061487 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------/
+Downloading user 1304938798447554560 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1618211911 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------/
+Downloading user 1293404946834972672 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 349249475 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------/
+Downloading user 1341744054514663424 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------/
+Downloading user 1348465771580715008 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1277909247347642368 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 300267443 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------/
+Downloading user 2530835306 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------/
+Downloading user 1326222661714894848 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1276176491831676928 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 776162618792869888 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------/
+Downloading user 279020836 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------/
+Downloading user 1269043749746692096 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------/
+Downloading user 1164913515737616384 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1271966432272584704 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------/
+Downloading user 298746807 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------/
+Downloading user 1352738182664695808 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1314365914993827840 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+Downloading user 985721299078070272 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+Downloading user 2813313848 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+Downloading user 109813243 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+Downloading user 1339610676524769280 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1323689736578486272 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2887827685 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+Downloading user 169899481 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+Downloading user 1262718603511685120 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1330981142091194368 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1261322423602786304 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------/
+Downloading user 1260972089344954368 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1273603221802663936 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 341585245 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------/
+Downloading user 1282732417334128640 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------/
+Downloading user 1289935458043035648 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------/
+Downloading user 1614322304 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------/
+Downloading user 17246902 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+Downloading user 1345789775404523520 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 298274977 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+Downloading user 1330182463298154496 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1335779400625876992 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1345823046104469504 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+Downloading user 1356434353623093248 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 3346216042 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1358871044820500480 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+Downloading user 723564733710868480 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1335350676344463360 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1344818478650449920 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 137890325 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1151925811819270144 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1276730099132297216 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 601994579 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+Downloading user 1278886641906659328 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 3950551943 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+Downloading user 1289637791102644224 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+Downloading user 1091432312397541376 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+Downloading user 1339405707066683392 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+Downloading user 1176866458933981184 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+Downloading user 1534198280 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+Downloading user 1232911373614501888 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1324668467757215744 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 14031032 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+Downloading user 1360632863905964032 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1220686020322242560 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+Downloading user 1340414164179832832 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+Downloading user 158610400 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+Downloading user 1053660048499621888 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1266836687323303936 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+Downloading user 1273020869464543232 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1282411989793255424 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 1295395734553006080 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1335355956671221760 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 426967935 tweets
+3 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+Downloading user 1315087000379236352 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1310609620495466496 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1337429405963051008 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1049390653489197056 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1271975774749290496 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+Downloading user 2679319950 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+Downloading user 1977175933 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+Downloading user 1107010621 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+Downloading user 582390700 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+Downloading user 1246961889172692992 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+Downloading user 1118293485998825472 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 3700990397 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+Downloading user 1054281123893628928 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+Downloading user 2216139414 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+Downloading user 515765776 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+Downloading user 3450470477 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+Downloading user 1361725435529207808 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1251671451612131328 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+Downloading user 1362638612781744128 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1019121058069217280 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+Downloading user 707057743157444608 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+Downloading user 1096081495192682496 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+Downloading user 21328656 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+Downloading user 1231876668865695744 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------/
+Downloading user 1139387949768835072 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------/
+Downloading user 3270306985 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------/
+Downloading user 1300807912835690496 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2964569193 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------/
+Downloading user 17213701 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------/
+Downloading user 962805945020702720 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 906328017986899968 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+Downloading user 799122090 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+Downloading user 1334663567363239936 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1635786900 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+Downloading user 1326558331092209664 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+Downloading user 399195836 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 1329735108610453504 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+Downloading user 2169411606 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+Downloading user 391794242 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------/
+Downloading user 1141654830 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------/
+Downloading user 1218045749960855552 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 109353614 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------/
+Downloading user 3083109892 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------/
+Downloading user 1338716073735180288 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------/
+Downloading user 563035061 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------/
+Downloading user 889220685423357952 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 40942576 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------/
+Downloading user 147453521 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------/
+Downloading user 37065910 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------/
+Downloading user 1014726871911714816 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------/
+Downloading user 3197275843 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+Downloading user 1311624114495520768 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+Downloading user 16827489 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+Downloading user 2557825400 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+Downloading user 101354595 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+Downloading user 11922492 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+Downloading user 3302 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------/
+Downloading user 3696215239 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------/
+Downloading user 1188795407809335296 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------/
+Downloading user 2216333869 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 1154401768274575360 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 7958322 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------/
+Downloading user 3445130243 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------/
+Downloading user 397136529 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+Downloading user 204988342 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+Downloading user 1080878607998824448 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+Downloading user 18427624 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+Downloading user 930177090971877376 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1167789076805816320 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+Downloading user 2192456106 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+Downloading user 261703831 tweets
+Indexing error getting oldest tweet, moving onto next user...
+Downloading user 1677755504 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+Downloading user 2864524709 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+Downloading user 338532559 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+Downloading user 1250296820527296512 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+Downloading user 47087332 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+Downloading user 26591685 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+Downloading user 394279469 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+Downloading user 768327295685816320 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+Downloading user 28618520 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+Downloading user 2214242464 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+Downloading user 2896254250 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+Downloading user 371170002 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+Downloading user 1070199786299478016 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1082146259232804864 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+Downloading user 1133763119308607488 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2385720586 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+Downloading user 250362250 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+Downloading user 17549691 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+Downloading user 379172971 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------/
+Downloading user 815935924148338688 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------/
+Downloading user 160625399 tweets
+0 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------/
+Downloading user 7520262 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------/
+Downloading user 881689520307142656 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2746667072 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------/
+Downloading user 1006305736777961472 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 2992367496 tweets
+Skipping protected user... OR no new tweets to collect...
+Downloading user 1654661744 tweets
+1 Tweets saved...
+Tweets saved to /raw_tweets
+...done
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------/
+New tweets saved to directory, continuing to process mentions and push to database...
+
+
+User ID: 448077183
+User Follower Count: 1447
+Users processed: 0
+/----------------------------------------------------------------------------------------------------/
+
+
+User ID: 21764428
+User Follower Count: 78414
+Users processed: 1
+/----------------------------------------------------------------------------------------------------/
+
+
+User ID: 23059499
+User Follower Count: 170698
+Users processed: 2
+/X---------------------------------------------------------------------------------------------------/
+
+
+User ID: 1260552306782810112
+User Follower Count: 41530
+Users processed: 3
+/X---------------------------------------------------------------------------------------------------/
+
+
+User ID: 14983508
+User Follower Count: 118011
+Users processed: 4
+/X---------------------------------------------------------------------------------------------------/
+
+
+User ID: 379172971
+User Follower Count: 10298
+Users processed: 5
+/X---------------------------------------------------------------------------------------------------/
+
+
+User ID: 596509048
+User Follower Count: 14044
+Users processed: 6
+/XX--------------------------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 298274977
+User Follower Count: 29426
+Users processed: 8
+/XX--------------------------------------------------------------------------------------------------/
+
+
+User ID: 939572568457170944
+User Follower Count: 7
+Users processed: 9
+/XX--------------------------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+
+
+
+User ID: 397136529
+User Follower Count: 127053
+Users processed: 12
+/XXX-------------------------------------------------------------------------------------------------/
+
+
+User ID: 3083109892
+User Follower Count: 11053
+Users processed: 13
+/XXX-------------------------------------------------------------------------------------------------/
+
+
+User ID: 527018393
+User Follower Count: 8203
+Users processed: 14
+/XXXX------------------------------------------------------------------------------------------------/
+
+
+User ID: 147902687
+User Follower Count: 6161
+Users processed: 15
+/XXXX------------------------------------------------------------------------------------------------/
+
+
+User ID: 203652149
+User Follower Count: 345910
+Users processed: 16
+/XXXX------------------------------------------------------------------------------------------------/
+
+
+User ID: 864584576
+User Follower Count: 4181
+Users processed: 17
+/XXXX------------------------------------------------------------------------------------------------/
+
+
+User ID: 1271966432272584704
+User Follower Count: 1001
+Users processed: 18
+/XXXXX-----------------------------------------------------------------------------------------------/
+
+
+User ID: 34582316
+User Follower Count: 17925
+Users processed: 19
+/XXXXX-----------------------------------------------------------------------------------------------/
+
+
+User ID: 3270306985
+User Follower Count: 53214
+Users processed: 20
+/XXXXX-----------------------------------------------------------------------------------------------/
+
+
+User ID: 52166809
+User Follower Count: 291610
+Users processed: 21
+/XXXXX-----------------------------------------------------------------------------------------------/
+
+
+User ID: 4706746513
+User Follower Count: 21296
+Users processed: 22
+/XXXXXX----------------------------------------------------------------------------------------------/
+
+
+User ID: 586734515
+User Follower Count: 15901
+Users processed: 23
+/XXXXXX----------------------------------------------------------------------------------------------/
+
+
+User ID: 47087332
+User Follower Count: 46885
+Users processed: 24
+/XXXXXX----------------------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 250362250
+User Follower Count: 37723
+Users processed: 26
+/XXXXXXX---------------------------------------------------------------------------------------------/
+
+
+User ID: 40942576
+User Follower Count: 9891
+Users processed: 27
+/XXXXXXX---------------------------------------------------------------------------------------------/
+
+
+User ID: 2392168422
+User Follower Count: 11257
+Users processed: 28
+/XXXXXXX---------------------------------------------------------------------------------------------/
+
+
+User ID: 1256179655767400448
+User Follower Count: 2059
+Users processed: 29
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+
+
+User ID: 26591685
+User Follower Count: 18314
+Users processed: 30
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+
+
+User ID: 129779889
+User Follower Count: 2474
+Users processed: 31
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+
+
+User ID: 16827489
+User Follower Count: 624462
+Users processed: 32
+/XXXXXXXX--------------------------------------------------------------------------------------------/
+
+
+User ID: 338532559
+User Follower Count: 2698
+Users processed: 33
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+
+
+User ID: 1123311962924945408
+User Follower Count: 60833
+Users processed: 34
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+
+
+User ID: 275288972
+User Follower Count: 25416
+Users processed: 35
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+
+
+User ID: 1259555533952032768
+User Follower Count: 141
+Users processed: 36
+/XXXXXXXXX-------------------------------------------------------------------------------------------/
+
+
+User ID: 1091432312397541376
+User Follower Count: 28539
+Users processed: 37
+/XXXXXXXXXX------------------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1295125041001172992
+User Follower Count: 3646
+Users processed: 39
+/XXXXXXXXXX------------------------------------------------------------------------------------------/
+
+
+User ID: 1360396375503085568
+User Follower Count: 299
+Users processed: 40
+/XXXXXXXXXX------------------------------------------------------------------------------------------/
+
+
+User ID: 56121651
+User Follower Count: 24422
+Users processed: 41
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+
+
+User ID: 2679319950
+User Follower Count: 244
+Users processed: 42
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+
+
+User ID: 565969885
+User Follower Count: 52443
+Users processed: 43
+/XXXXXXXXXXX-----------------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 373620043
+User Follower Count: 445847
+Users processed: 45
+/XXXXXXXXXXXX----------------------------------------------------------------------------------------/
+
+
+User ID: 1311624114495520768
+User Follower Count: 277
+Users processed: 46
+/XXXXXXXXXXXX----------------------------------------------------------------------------------------/
+
+
+User ID: 43475268
+User Follower Count: 15898
+Users processed: 47
+/XXXXXXXXXXXX----------------------------------------------------------------------------------------/
+
+
+User ID: 498166332
+User Follower Count: 31955
+Users processed: 48
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+
+
+User ID: 2756017625
+User Follower Count: 991
+Users processed: 49
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 2187819369
+User Follower Count: 114
+Users processed: 51
+/XXXXXXXXXXXXX---------------------------------------------------------------------------------------/
+
+
+User ID: 1167789076805816320
+User Follower Count: 352
+Users processed: 52
+/XXXXXXXXXXXXXX--------------------------------------------------------------------------------------/
+
+
+User ID: 966139276235825152
+User Follower Count: 3548
+Users processed: 53
+/XXXXXXXXXXXXXX--------------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 875407999141007360
+User Follower Count: 1685
+Users processed: 55
+/XXXXXXXXXXXXXX--------------------------------------------------------------------------------------/
+
+
+User ID: 831723043
+User Follower Count: 156477
+Users processed: 56
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 515765776
+User Follower Count: 216
+Users processed: 58
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+
+
+User ID: 943104944504233984
+User Follower Count: 190
+Users processed: 59
+/XXXXXXXXXXXXXXX-------------------------------------------------------------------------------------/
+
+
+User ID: 704770086075277312
+User Follower Count: 15732
+Users processed: 60
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+
+
+User ID: 2964287876
+User Follower Count: 31258
+Users processed: 61
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+
+
+User ID: 18855108
+User Follower Count: 17619
+Users processed: 62
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+
+
+User ID: 1661029645
+User Follower Count: 24521
+Users processed: 63
+/XXXXXXXXXXXXXXXX------------------------------------------------------------------------------------/
+
+
+User ID: 2342334844
+User Follower Count: 77323
+Users processed: 64
+/XXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------------/
+
+
+User ID: 1141654830
+User Follower Count: 1060
+Users processed: 65
+/XXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------------/
+
+
+User ID: 208576658
+User Follower Count: 2313
+Users processed: 66
+/XXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------------/
+
+
+User ID: 968852728314257408
+User Follower Count: 650
+Users processed: 67
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 448894687
+User Follower Count: 15958
+Users processed: 69
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+
+
+User ID: 2169411606
+User Follower Count: 68
+Users processed: 70
+/XXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------------/
+
+
+User ID: 1191169855044694016
+User Follower Count: 1258
+Users processed: 71
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+
+
+User ID: 1261322423602786304
+User Follower Count: 28575
+Users processed: 72
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+
+
+User ID: 17549691
+User Follower Count: 65009
+Users processed: 73
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+
+
+User ID: 1338716073735180288
+User Follower Count: 46
+Users processed: 74
+/XXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------------/
+
+
+User ID: 1635786900
+User Follower Count: 9834
+Users processed: 75
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+
+
+User ID: 166597717
+User Follower Count: 24668
+Users processed: 76
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+
+
+User ID: 219370252
+User Follower Count: 72384
+Users processed: 77
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+
+
+User ID: 349249475
+User Follower Count: 136421
+Users processed: 78
+/XXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------------/
+
+
+User ID: 109813243
+User Follower Count: 12098
+Users processed: 79
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+
+
+User ID: 4224604276
+User Follower Count: 99
+Users processed: 80
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+
+
+User ID: 2806294664
+User Follower Count: 44139
+Users processed: 81
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+
+
+User ID: 51912109
+User Follower Count: 33425
+Users processed: 82
+/XXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------------/
+
+
+User ID: 732206149567692800
+User Follower Count: 598
+Users processed: 83
+/XXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------------/
+
+
+User ID: 1120522663414456320
+User Follower Count: 8450
+Users processed: 84
+/XXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------------/
+
+
+User ID: 916787510822436864
+User Follower Count: 74878
+Users processed: 85
+/XXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------------/
+
+
+User ID: 2470475939
+User Follower Count: 2209
+Users processed: 86
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+
+
+User ID: 1000886101
+User Follower Count: 86391
+Users processed: 87
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 189788477
+User Follower Count: 29598
+Users processed: 89
+/XXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------------/
+
+
+User ID: 1314365914993827840
+User Follower Count: 2983
+Users processed: 90
+/XXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------/
+
+
+User ID: 1371616021430296576
+User Follower Count: 26
+Users processed: 91
+/XXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------/
+
+
+User ID: 1288630630515789824
+User Follower Count: 3638
+Users processed: 92
+/XXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 99737856
+User Follower Count: 11130
+Users processed: 94
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+
+
+User ID: 169899481
+User Follower Count: 22046
+Users processed: 95
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+
+
+User ID: 2746667072
+User Follower Count: 40117
+Users processed: 96
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+
+
+User ID: 1266836687323303936
+User Follower Count: 18392
+Users processed: 97
+/XXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------------/
+
+
+User ID: 768327295685816320
+User Follower Count: 3328
+Users processed: 98
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+
+
+User ID: 892072054148796416
+User Follower Count: 153899
+Users processed: 99
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+
+
+User ID: 1159930177696219136
+User Follower Count: 48
+Users processed: 100
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+
+
+User ID: 1259338304706809856
+User Follower Count: 3524
+Users processed: 101
+/XXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------------/
+
+
+User ID: 81157050
+User Follower Count: 119414
+Users processed: 102
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+
+
+User ID: 3445130243
+User Follower Count: 1453
+Users processed: 103
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+
+
+User ID: 97561587
+User Follower Count: 9311
+Users processed: 104
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+
+
+User ID: 1231876668865695744
+User Follower Count: 5733
+Users processed: 105
+/XXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 601994579
+User Follower Count: 424
+Users processed: 107
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------/
+
+
+User ID: 1335132190468952064
+User Follower Count: 1617
+Users processed: 108
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+
+
+
+User ID: 1345184455183503360
+User Follower Count: 878
+Users processed: 111
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------/
+
+
+User ID: 1677755504
+User Follower Count: 107128
+Users processed: 112
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------------/
+
+
+User ID: 371170002
+User Follower Count: 41
+Users processed: 113
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+
+
+User ID: 1271593087802896384
+User Follower Count: 41626
+Users processed: 114
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+
+
+User ID: 1271899909675859968
+User Follower Count: 34376
+Users processed: 115
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+
+
+User ID: 458989076
+User Follower Count: 12018
+Users processed: 116
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------------/
+
+
+User ID: 101354595
+User Follower Count: 118569
+Users processed: 117
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1154074304348246016
+User Follower Count: 4848
+Users processed: 119
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------/
+
+
+User ID: 1134049078424162304
+User Follower Count: 12049
+Users processed: 120
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------------/
+
+
+User ID: 1087680216204566528
+User Follower Count: 10
+Users processed: 121
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+
+
+User ID: 1164114986186227712
+User Follower Count: 52797
+Users processed: 122
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+
+
+User ID: 573095099
+User Follower Count: 8150
+Users processed: 123
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+
+
+User ID: 104695654
+User Follower Count: 12347
+Users processed: 124
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------------/
+
+
+User ID: 2919908100
+User Follower Count: 6569
+Users processed: 125
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------/
+
+
+User ID: 943883051989221376
+User Follower Count: 91589
+Users processed: 126
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------/
+
+
+User ID: 3837862277
+User Follower Count: 929
+Users processed: 127
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1672810880
+User Follower Count: 41234
+Users processed: 129
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 274233761
+User Follower Count: 39252
+Users processed: 131
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------------/
+
+
+User ID: 41458395
+User Follower Count: 47205
+Users processed: 132
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+
+
+User ID: 300267443
+User Follower Count: 3594
+Users processed: 133
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+
+
+User ID: 27771267
+User Follower Count: 76106
+Users processed: 134
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+
+
+User ID: 297848618
+User Follower Count: 13207
+Users processed: 135
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------------/
+
+
+User ID: 1289935458043035648
+User Follower Count: 1059
+Users processed: 136
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+
+
+User ID: 3700990397
+User Follower Count: 9740
+Users processed: 137
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+
+
+User ID: 279020836
+User Follower Count: 5943
+Users processed: 138
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+
+
+User ID: 1618211911
+User Follower Count: 752
+Users processed: 139
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------------/
+
+
+User ID: 57680359
+User Follower Count: 1373
+Users processed: 140
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+
+
+User ID: 229966745
+User Follower Count: 15539
+Users processed: 141
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+
+
+User ID: 2530835306
+User Follower Count: 9541
+Users processed: 142
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+
+
+User ID: 72636770
+User Follower Count: 13636
+Users processed: 143
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------------/
+
+
+User ID: 953725552040427520
+User Follower Count: 18012
+Users processed: 144
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+
+
+User ID: 237591901
+User Follower Count: 32182
+Users processed: 145
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+
+
+User ID: 1580637560
+User Follower Count: 27469
+Users processed: 146
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+
+
+User ID: 14051297
+User Follower Count: 3071
+Users processed: 147
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------------/
+
+
+User ID: 3302
+User Follower Count: 122284
+Users processed: 148
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+
+
+User ID: 1269043749746692096
+User Follower Count: 6803
+Users processed: 149
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+
+
+User ID: 1281254559755747328
+User Follower Count: 10153
+Users processed: 150
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------------/
+
+
+User ID: 204988342
+User Follower Count: 8968
+Users processed: 151
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+
+
+User ID: 1019121058069217280
+User Follower Count: 41384
+Users processed: 152
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+
+
+User ID: 1220686020322242560
+User Follower Count: 224
+Users processed: 153
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+
+
+User ID: 1296928720649887744
+User Follower Count: 10190
+Users processed: 154
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------------/
+
+
+User ID: 1096081495192682496
+User Follower Count: 1204
+Users processed: 155
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+
+
+User ID: 3038254299
+User Follower Count: 27260
+Users processed: 156
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+
+
+User ID: 2205812431
+User Follower Count: 360
+Users processed: 157
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+
+
+User ID: 55561590
+User Follower Count: 124579
+Users processed: 158
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------------/
+
+
+User ID: 1246961889172692992
+User Follower Count: 2644
+Users processed: 159
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+
+
+User ID: 2216333869
+User Follower Count: 25383
+Users processed: 160
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+
+
+User ID: 716299633786421248
+User Follower Count: 152
+Users processed: 161
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+
+
+User ID: 1289823541098143744
+User Follower Count: 66380
+Users processed: 162
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------------/
+
+
+User ID: 4857170249
+User Follower Count: 52128
+Users processed: 163
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+
+
+User ID: 3124099835
+User Follower Count: 1474
+Users processed: 164
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+
+
+User ID: 1157733371449171968
+User Follower Count: 2711
+Users processed: 165
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+
+
+User ID: 2214242464
+User Follower Count: 3184
+Users processed: 166
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------------/
+
+
+User ID: 949496605576716288
+User Follower Count: 13203
+Users processed: 167
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+
+
+User ID: 3432211203
+User Follower Count: 9200
+Users processed: 168
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+
+
+User ID: 66746952
+User Follower Count: 56827
+Users processed: 169
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 3696215239
+User Follower Count: 77119
+Users processed: 171
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------/
+
+
+User ID: 391794242
+User Follower Count: 406
+Users processed: 172
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------/
+
+
+User ID: 15130891
+User Follower Count: 45811
+Users processed: 173
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 2222635612
+User Follower Count: 37649
+Users processed: 175
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 331874505
+User Follower Count: 5662
+Users processed: 177
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------------/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+
+
+
+User ID: 40938160
+User Follower Count: 65028
+Users processed: 180
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------/
+
+
+User ID: 3950551943
+User Follower Count: 33
+Users processed: 181
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------------/
+
+
+User ID: 632341632
+User Follower Count: 81213
+Users processed: 182
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------/
+
+
+User ID: 3441912856
+User Follower Count: 2060
+Users processed: 183
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 2228460174
+User Follower Count: 6042
+Users processed: 185
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------------/
+
+
+User ID: 1340414164179832832
+User Follower Count: 18
+Users processed: 186
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+
+
+User ID: 979704805051588608
+User Follower Count: 3837
+Users processed: 187
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+
+
+User ID: 24070568
+User Follower Count: 107
+Users processed: 188
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+
+
+User ID: 389474167
+User Follower Count: 55103
+Users processed: 189
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------------/
+
+
+User ID: 1282732417334128640
+User Follower Count: 3627
+Users processed: 190
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------/
+
+
+User ID: 43775786
+User Follower Count: 2427187
+Users processed: 191
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------/
+
+
+User ID: 1344073018797129728
+User Follower Count: 13413
+Users processed: 192
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1047325862675324928
+User Follower Count: 70364
+Users processed: 194
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+
+
+User ID: 1014650666
+User Follower Count: 97943
+Users processed: 195
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+
+
+User ID: 1654661744
+User Follower Count: 34770
+Users processed: 196
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------------/
+
+
+User ID: 90502419
+User Follower Count: 51667
+Users processed: 197
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+
+
+User ID: 7520262
+User Follower Count: 72170
+Users processed: 198
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+
+
+User ID: 1614322304
+User Follower Count: 12509
+Users processed: 199
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+
+
+User ID: 563035061
+User Follower Count: 9749
+Users processed: 200
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------------/
+
+
+User ID: 14031032
+User Follower Count: 65985
+Users processed: 201
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+
+
+User ID: 17213701
+User Follower Count: 35998
+Users processed: 202
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+
+
+User ID: 1014726871911714816
+User Follower Count: 7845
+Users processed: 203
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+
+
+User ID: 259471396
+User Follower Count: 6184
+Users processed: 204
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------------/
+
+
+User ID: 1251671451612131328
+User Follower Count: 7734
+Users processed: 205
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+
+
+User ID: 399195836
+User Follower Count: 4474
+Users processed: 206
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 121158213
+User Follower Count: 149303
+Users processed: 208
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------------/
+
+
+User ID: 83150642
+User Follower Count: 61632
+Users processed: 209
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+
+
+User ID: 2290432441
+User Follower Count: 5310
+Users processed: 210
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+
+
+User ID: 1341744054514663424
+User Follower Count: 51
+Users processed: 211
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+
+
+User ID: 946470689367842816
+User Follower Count: 175278
+Users processed: 212
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------------/
+
+
+User ID: 132703700
+User Follower Count: 110982
+Users processed: 213
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+
+
+User ID: 2334614718
+User Follower Count: 70683
+Users processed: 214
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+
+
+User ID: 1139387949768835072
+User Follower Count: 406
+Users processed: 215
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------------/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+
+
+
+User ID: 706723368939065344
+User Follower Count: 19760
+Users processed: 218
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------/
+
+
+User ID: 18557769
+User Follower Count: 10601
+Users processed: 219
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------------/
+
+
+User ID: 253617897
+User Follower Count: 1024
+Users processed: 220
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+
+
+User ID: 16726035
+User Follower Count: 104768
+Users processed: 221
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+
+
+User ID: 1266076107306151936
+User Follower Count: 20727
+Users processed: 222
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+
+
+User ID: 770583695652560896
+User Follower Count: 55947
+Users processed: 223
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------------/
+
+
+User ID: 339061487
+User Follower Count: 643066
+Users processed: 224
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------/
+
+
+User ID: 1313686024741158912
+User Follower Count: 32910
+Users processed: 225
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------/
+
+
+User ID: 2941122879
+User Follower Count: 24678
+Users processed: 226
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------------/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+
+
+
+User ID: 44622184
+User Follower Count: 19631
+Users processed: 229
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------/
+
+
+User ID: 341585245
+User Follower Count: 366
+Users processed: 230
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------/
+
+
+User ID: 876045524939485184
+User Follower Count: 29556
+Users processed: 231
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------------/
+
+
+User ID: 125686737
+User Follower Count: 5627
+Users processed: 232
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+
+
+User ID: 2541246373
+User Follower Count: 13274
+Users processed: 233
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+
+
+User ID: 2896254250
+User Follower Count: 11847
+Users processed: 234
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------------/
+
+
+User ID: 61875147
+User Follower Count: 317426
+Users processed: 235
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 255996385
+User Follower Count: 17167
+Users processed: 237
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------/
+
+
+User ID: 1113201035173036032
+User Follower Count: 14342
+Users processed: 238
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------------/
+
+
+User ID: 14886375
+User Follower Count: 866123
+Users processed: 239
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+
+
+User ID: 1348662936865288192
+User Follower Count: 5617
+Users processed: 240
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+
+
+User ID: 40099128
+User Follower Count: 18405
+Users processed: 241
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+
+
+User ID: 1695293845
+User Follower Count: 5118
+Users processed: 242
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------------/
+
+
+User ID: 394279469
+User Follower Count: 218
+Users processed: 243
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+
+
+User ID: 1142472254514589696
+User Follower Count: 111
+Users processed: 244
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+
+
+User ID: 158610400
+User Follower Count: 64294
+Users processed: 245
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+
+
+User ID: 1127579331172216832
+User Follower Count: 222
+Users processed: 246
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------------/
+
+
+User ID: 776162618792869888
+User Follower Count: 3080
+Users processed: 247
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+
+
+User ID: 756119882861862912
+User Follower Count: 36267
+Users processed: 248
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 3197275843
+User Follower Count: 5995
+Users processed: 250
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------------/
+
+
+User ID: 1136045357434056704
+User Follower Count: 356
+Users processed: 251
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+
+
+User ID: 958087450274000896
+User Follower Count: 41664
+Users processed: 252
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+
+
+User ID: 858063372583088128
+User Follower Count: 815
+Users processed: 253
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+
+
+User ID: 7823142
+User Follower Count: 3736
+Users processed: 254
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------------/
+
+
+User ID: 1016148108319887360
+User Follower Count: 1503
+Users processed: 255
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------/
+
+
+User ID: 1244192860674625536
+User Follower Count: 918
+Users processed: 256
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------/
+
+
+User ID: 2887827685
+User Follower Count: 1798
+Users processed: 257
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------------/
+
+
+User ID: 3229256723
+User Follower Count: 22821
+Users processed: 258
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------/
+
+
+User ID: 138404716
+User Follower Count: 94304
+Users processed: 259
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------/
+
+
+User ID: 1018324467758465024
+User Follower Count: 52336
+Users processed: 260
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------/
+
+
+User ID: 2557825400
+User Follower Count: 32455
+Users processed: 261
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 761370249329377280
+User Follower Count: 6126
+Users processed: 263
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------/
+
+
+User ID: 1280125268007493632
+User Follower Count: 90138
+Users processed: 264
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------/
+
+
+User ID: 818958375216152576
+User Follower Count: 40291
+Users processed: 265
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------------/
+
+
+User ID: 1062074042969137152
+User Follower Count: 2362
+Users processed: 266
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------/
+
+
+User ID: 298746807
+User Follower Count: 31581
+Users processed: 267
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------/
+
+
+User ID: 2264053464
+User Follower Count: 6830
+Users processed: 268
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------/
+
+
+User ID: 2964569193
+User Follower Count: 38054
+Users processed: 269
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 3308210484
+User Follower Count: 13946
+Users processed: 271
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------/
+
+
+User ID: 2192456106
+User Follower Count: 22887
+Users processed: 272
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------/
+
+
+User ID: 978735902859112448
+User Follower Count: 31393
+Users processed: 273
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------------/
+
+
+User ID: 89517375
+User Follower Count: 215145
+Users processed: 274
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 3410575617
+User Follower Count: 93217
+Users processed: 276
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------------/
+
+
+User ID: 4627333400
+User Follower Count: 7390
+Users processed: 277
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------/
+
+
+User ID: 1599911502
+User Follower Count: 41495
+Users processed: 278
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------/
+
+
+User ID: 1107010621
+User Follower Count: 760
+Users processed: 279
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 957781891788296192
+User Follower Count: 8656
+Users processed: 281
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------/
+
+
+User ID: 996594106875949056
+User Follower Count: 535
+Users processed: 282
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 582390700
+User Follower Count: 96460
+Users processed: 284
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------------/
+
+
+User ID: 2976727463
+User Follower Count: 17654
+Users processed: 285
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------/
+
+
+User ID: 1178820912751267840
+User Follower Count: 1942
+Users processed: 286
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------/
+
+
+User ID: 102527566
+User Follower Count: 49655
+Users processed: 287
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------/
+
+
+User ID: 954321334217056256
+User Follower Count: 4293
+Users processed: 288
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------------/
+
+
+User ID: 2186813068
+User Follower Count: 13501
+Users processed: 289
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------/
+
+
+User ID: 31546412
+User Follower Count: 63908
+Users processed: 290
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1170831448082984960
+User Follower Count: 55213
+Users processed: 292
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------------/
+
+
+User ID: 1224183831231524864
+User Follower Count: 9788
+Users processed: 293
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 2385720586
+User Follower Count: 274
+Users processed: 295
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------------/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+
+
+
+User ID: 271045715
+User Follower Count: 113651
+Users processed: 298
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------/
+
+
+User ID: 1581832626
+User Follower Count: 6176
+Users processed: 299
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------------/
+
+
+User ID: 972420430542835712
+User Follower Count: 246
+Users processed: 300
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------/
+
+
+User ID: 1339405707066683392
+User Follower Count: 105
+Users processed: 301
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------/
+
+
+User ID: 1534198280
+User Follower Count: 215
+Users processed: 302
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------------/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+
+
+
+User ID: 1358871044820500480
+User Follower Count: 3465
+Users processed: 305
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------/
+
+
+User ID: 1176866458933981184
+User Follower Count: 2956
+Users processed: 306
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------/
+
+
+User ID: 426967935
+User Follower Count: 1659
+Users processed: 307
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1394399438
+User Follower Count: 6171503
+Users processed: 309
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------/
+
+
+User ID: 4312114277
+User Follower Count: 5599
+Users processed: 310
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------/
+
+
+User ID: 814193140840222720
+User Follower Count: 351
+Users processed: 311
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------------/
+
+
+User ID: 1216173472310878208
+User Follower Count: 1264
+Users processed: 312
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------/
+
+
+User ID: 26504905
+User Follower Count: 13803
+Users processed: 313
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------/
+
+
+User ID: 2520719083
+User Follower Count: 15566
+Users processed: 314
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------/
+
+
+User ID: 570754937
+User Follower Count: 44507
+Users processed: 315
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------------/
+
+
+User ID: 112872946
+User Follower Count: 52122
+Users processed: 316
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------/
+
+
+User ID: 3311123341
+User Follower Count: 1421
+Users processed: 317
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------/
+
+
+User ID: 1263131199238627328
+User Follower Count: 13
+Users processed: 318
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------------/
+
+
+User ID: 1289637791102644224
+User Follower Count: 173
+Users processed: 319
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------/
+
+
+User ID: 1277564927562170368
+User Follower Count: 560
+Users processed: 320
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 261703831
+User Follower Count: 4923
+Users processed: 322
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------------/
+
+
+User ID: 707057743157444608
+User Follower Count: 2602
+Users processed: 323
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------/
+
+
+User ID: 958760331802705920
+User Follower Count: 5379
+Users processed: 324
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------/
+
+
+User ID: 69803348
+User Follower Count: 15602
+Users processed: 325
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------/
+
+
+User ID: 815935924148338688
+User Follower Count: 96684
+Users processed: 326
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------------/
+
+
+User ID: 71453756
+User Follower Count: 217
+Users processed: 327
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------/
+
+
+User ID: 712645338
+User Follower Count: 28073
+Users processed: 328
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------/
+
+
+User ID: 19717430
+User Follower Count: 26435
+Users processed: 329
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------/
+
+
+User ID: 11247222
+User Follower Count: 297002
+Users processed: 330
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1234721726593765376
+User Follower Count: 3568
+Users processed: 332
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------/
+
+
+User ID: 1118235493030866944
+User Follower Count: 216979
+Users processed: 333
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------/
+
+
+User ID: 985721299078070272
+User Follower Count: 19210
+Users processed: 334
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------------/
+
+
+User ID: 3398295268
+User Follower Count: 8679
+Users processed: 335
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------/
+
+
+User ID: 602193458
+User Follower Count: 7487
+Users processed: 336
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1193455044
+User Follower Count: 851
+Users processed: 338
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------------/
+
+
+User ID: 1104876591774134272
+User Follower Count: 21058
+Users processed: 339
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----------/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+
+
+
+User ID: 1060938846102122496
+User Follower Count: 1784
+Users processed: 342
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------/
+
+
+User ID: 1545610710
+User Follower Count: 486
+Users processed: 343
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------/
+
+
+User ID: 1026881203893415936
+User Follower Count: 1742
+Users processed: 344
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------/
+
+
+User ID: 40300931
+User Follower Count: 23344
+Users processed: 345
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----------/
+
+
+User ID: 718886809816735744
+User Follower Count: 185
+Users processed: 346
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1283972486883876864
+User Follower Count: 37430
+Users processed: 348
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1240592960795938816
+User Follower Count: 11686
+Users processed: 350
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 54248795
+User Follower Count: 1111
+Users processed: 352
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------/
+
+
+User ID: 787439438964068352
+User Follower Count: 81550
+Users processed: 353
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--------/
+
+
+User ID: 90752439
+User Follower Count: 56901
+Users processed: 354
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1074332839179563008
+User Follower Count: 19617
+Users processed: 356
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------/
+
+
+User ID: 849754941807890432
+User Follower Count: 40595
+Users processed: 357
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-------/
+
+
+User ID: 2911130432
+User Follower Count: 38500
+Users processed: 358
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------/
+
+
+User ID: 1326558331092209664
+User Follower Count: 1724
+Users processed: 359
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------/
+
+
+User ID: 2216139414
+User Follower Count: 7056
+Users processed: 360
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX------/
+
+
+User ID: 1080878607998824448
+User Follower Count: 4635
+Users processed: 361
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----/
+
+
+User ID: 74489330
+User Follower Count: 14711
+Users processed: 362
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----/
+
+
+User ID: 1041050238
+User Follower Count: 4476
+Users processed: 363
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----/
+
+
+User ID: 136136326
+User Follower Count: 241862
+Users processed: 364
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-----/
+
+
+User ID: 1977175933
+User Follower Count: 776
+Users processed: 365
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----/
+
+
+User ID: 902269398
+User Follower Count: 3495
+Users processed: 366
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----/
+
+
+User ID: 37040959
+User Follower Count: 11296
+Users processed: 367
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----/
+
+
+User ID: 983655260
+User Follower Count: 22943
+Users processed: 368
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX----/
+
+
+User ID: 11922492
+User Follower Count: 81122
+Users processed: 369
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---/
+
+
+User ID: 1285687572090454016
+User Follower Count: 2995
+Users processed: 370
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---/
+
+
+User ID: 1359180271262855168
+User Follower Count: 77
+Users processed: 371
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---/
+
+
+User ID: 787881708364398592
+User Follower Count: 5070
+Users processed: 372
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX---/
+No tweets for user, moving to next... 
+
+
+
+User ID: 1260401180171067392
+User Follower Count: 17683
+Users processed: 374
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--/
+
+
+User ID: 3054054090
+User Follower Count: 76
+Users processed: 375
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--/
+
+
+User ID: 855295030369542144
+User Follower Count: 10866
+Users processed: 376
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX--/
+
+
+User ID: 188369814
+User Follower Count: 112296
+Users processed: 377
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-/
+
+
+User ID: 1270094009017356288
+User Follower Count: 8744
+Users processed: 378
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-/
+
+
+User ID: 758386485846544384
+User Follower Count: 168053
+Users processed: 379
+/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-/
+No tweets for user, moving to next... 
+
+No tweets for user, moving to next... 
+

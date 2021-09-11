@@ -24,6 +24,7 @@ from config import twitter_config
 script_dir = os.path.dirname(os.path.realpath("/home/pi/Code/money-talks/twitter-scraper/main.py"))
 os.chdir(script_dir)
 
+email_report.email_report('Main.py Activated Via Crontab', 'tracedelange@me.com', 'Crontab Scrape Activated.')
 
 process_start = datetime.now()
 start_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -244,7 +245,7 @@ Scraping process complete!
 
 Start time: %s
 End time: %s
-Total processing time: %s
+Total processing time in minutes: %s
 
 ------------------------------------------
 
@@ -253,7 +254,7 @@ Number of users scanned: %s
 Total number of mentions collected: %s
 
 
-""" % (start_time, end_time, (process_timespan.total_seconds)/60, stats['users_checked'], stats['total_collected'])
+""" % (start_time, end_time, str((int(process_timespan.total_seconds()))/60), stats['users_checked'], stats['total_collected'])
 
 
 # Send out message to email address with the stats of the last run:
