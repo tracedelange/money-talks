@@ -24,9 +24,7 @@ from config import twitter_config
 script_dir = os.path.dirname(os.path.realpath("/home/pi/Code/money-talks/twitter-scraper/main.py"))
 os.chdir(script_dir)
 
-
-email_report.email_report('Main.py Activated via cron', 'tracedelange@me.com', "test")
-
+email_report.email_report('Main.py Activated Via Crontab', 'tracedelange@me.com', 'Crontab Scrape Activated.')
 
 process_start = datetime.now()
 start_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
@@ -86,9 +84,9 @@ for index, row in df.iterrows():
         #not an int, date obj, default to something
         since = 1
     #     
-    print('Downloading user ' + str(row['user_id']) + ' tweets')
+    print('Downloading user ' + str(int(row['user_id'])) + ' tweets')
 #     #Generate and save a list of user tweets as a csv in the raw_tweets dir
-    target_user_id = row['user_id']
+    target_user_id = int(row['user_id'])
 
 #     # initialize a list to hold all the tweepy Tweets
     alltweets = []
@@ -156,7 +154,7 @@ for index, row in df.iterrows():
 
     # print('\n')
     print('...done')
-    df.to_csv('test_list.csv', sep=',', encoding='utf-8', index=False)
+    df.to_csv('user_id_list.csv', sep=',', encoding='utf-8', index=False)
     
     stats['user_count'] += 1
     
@@ -247,7 +245,7 @@ Scraping process complete!
 
 Start time: %s
 End time: %s
-Total processing time: %s
+Total processing time in minutes: %s
 
 ------------------------------------------
 
@@ -256,7 +254,7 @@ Number of users scanned: %s
 Total number of mentions collected: %s
 
 
-""" % (start_time, end_time, (process_timespan.total_seconds)/60, stats['users_checked'], stats['total_collected'])
+""" % (start_time, end_time, str((int(process_timespan.total_seconds()))/60), stats['users_checked'], stats['total_collected'])
 
 
 # Send out message to email address with the stats of the last run:
